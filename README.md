@@ -1,6 +1,6 @@
 ## About Me :smile:
 
-Hi, I’m Rözlin! I’m a junior Frontend Developer driven by curiosity and a love for JavaScript, TypeScript, React & UX/UI. I enjoy creating intuitive and accessible digital experiences while continuously learning and improving my craft.
+Hi, I’m Rözlin! I’m a Frontend Developer driven by curiosity and a love for JavaScript, TypeScript, React & UX/UI. I enjoy creating intuitive and accessible digital experiences while continuously learning and improving my craft.
 
 - :seedling: I’m currently exploring **Supabase**.
 <!-- - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**. -->
@@ -23,9 +23,9 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rozlin-ak
 ## :hammer_and_wrench: Tools I Use
 
 <p align=“left”>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
-<img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg” alt=“javascript” width=“30" height=“30” />
-<img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg” alt=“react” width=“30" height=“30” />
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg” alt=“git” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg” alt=“github” width=“30" height=“30”/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
