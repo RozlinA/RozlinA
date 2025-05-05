@@ -35,4 +35,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rozlin-ak
 
 <!-- Optional GitHub Stats -->
 
-![Rözlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rozlin-akkurt&show_icons=true&theme=tokyonight)
+![Rözlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RozlinA&show_icons=true&theme=tokyonight)
